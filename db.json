@@ -1,0 +1,11 @@
+{
+    "host":"ebvs.fa.dc1.c9dev2.oraclecorp.com",
+    "port":443,
+    "protocol":"https",
+    "connections": [
+        {
+            "name": "crmRestApi",
+            "baseUrl": "/crmRestApi/resources/latest"
+        }
+    ]
+}
